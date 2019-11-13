@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/facebookgo/ensure"
-	"github.com/mailgun/mailgun-go/v3"
+	"github.com/huttarichard/mailgun-go"
 )
 
 func TestGetWebhook(t *testing.T) {

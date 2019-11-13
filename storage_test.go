@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/facebookgo/ensure"
-	"github.com/mailgun/mailgun-go/v3"
-	"github.com/mailgun/mailgun-go/v3/events"
+	"github.com/huttarichard/mailgun-go"
+	"github.com/huttarichard/mailgun-go/events"
 	"strings"
 	"testing"
 )
